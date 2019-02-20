@@ -1,0 +1,196 @@
+2019-01-25 10:46:12 [org.quartz.impl.StdSchedulerFactory]-[INFO] Using default implementation for ThreadExecutor
+ 2019-01-25 10:46:12 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+ 2019-01-25 10:46:12 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+ 2019-01-25 10:46:12 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.2.2.1 created.
+ 2019-01-25 10:46:12 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+ 2019-01-25 10:46:12 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+ 2019-01-25 10:46:12 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+ 2019-01-25 10:46:12 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 2.2.1
+ 2019-01-25 10:46:12 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+ 2019-01-25 12:30:18 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] Hk_r_img数量为：0
+ 2019-01-25 12:30:20 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] [imginfo]查询hk_company_image表下数据：2100
+ 2019-01-25 12:30:20 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 图片信息插入成功：2100
+ 2019-01-25 12:31:33 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] Hk_r_img数量为：2100
+ 2019-01-25 12:31:33 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 最大id为：0
+ 2019-01-25 12:31:33 [com.hksql.zhai.utils.DBUtil]-[ERROR] 查询数据异常:Unknown column 'hci.r_id' in 'where clause'
+ 2019-01-25 12:34:32 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] Hk_r_img数量为：2100
+ 2019-01-25 12:34:32 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 最大id为：0
+ 2019-01-25 12:34:33 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] [imginfo]查询hk_company_image表下数据：2100
+ 2019-01-25 12:38:47 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] Hk_r_img数量为：0
+ 2019-01-25 12:38:49 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] [imginfo]查询hk_company_image表下数据：2100
+ 2019-01-25 12:38:49 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 图片信息插入成功：2100
+ 2019-01-25 12:38:56 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] Hk_r_img数量为：2100
+ 2019-01-25 12:38:56 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 最大id为：2150460
+ 2019-01-25 12:38:56 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] [imginfo]查询hk_company_image表下数据：0
+ 2019-01-25 12:42:50 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] Hk_r_img数量为：0
+ 2019-01-25 12:42:51 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] [imginfo]查询hk_company_image表下数据：2100
+ 2019-01-25 12:42:54 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 图片信息插入成功：2100
+ 2019-01-25 12:46:00 [org.quartz.impl.StdSchedulerFactory]-[INFO] Using default implementation for ThreadExecutor
+ 2019-01-25 12:46:00 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+ 2019-01-25 12:46:00 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+ 2019-01-25 12:46:00 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.2.2.1 created.
+ 2019-01-25 12:46:00 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+ 2019-01-25 12:46:00 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+ 2019-01-25 12:46:00 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+ 2019-01-25 12:46:00 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 2.2.1
+ 2019-01-25 12:46:00 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+ 2019-01-25 12:47:00 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 12:47:02 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 12:47:02 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：886
+ 2019-01-25 12:47:03 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10004数据录入成功！
+ 2019-01-25 12:47:03 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 12:49:55 [org.quartz.impl.StdSchedulerFactory]-[INFO] Using default implementation for ThreadExecutor
+ 2019-01-25 12:49:55 [org.quartz.simpl.SimpleThreadPool]-[INFO] Job execution threads will use class loader of thread: main
+ 2019-01-25 12:49:55 [org.quartz.core.SchedulerSignalerImpl]-[INFO] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+ 2019-01-25 12:49:55 [org.quartz.core.QuartzScheduler]-[INFO] Quartz Scheduler v.2.2.1 created.
+ 2019-01-25 12:49:55 [org.quartz.simpl.RAMJobStore]-[INFO] RAMJobStore initialized.
+ 2019-01-25 12:49:55 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler meta-data: Quartz Scheduler (v2.2.1) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+ 2019-01-25 12:49:55 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+ 2019-01-25 12:49:55 [org.quartz.impl.StdSchedulerFactory]-[INFO] Quartz scheduler version: 2.2.1
+ 2019-01-25 12:49:55 [org.quartz.core.QuartzScheduler]-[INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+ 2019-01-25 12:51:00 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成
+ 2019-01-25 12:51:00 [com.hksql.zhai.oppo.job.OPPOInsertJob]-[ERROR] OPPO表数据为空
+ 2019-01-25 12:52:00 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 12:52:00 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 12:52:00 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：401
+ 2019-01-25 12:52:01 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10028数据录入成功！
+ 2019-01-25 12:52:01 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 12:53:00 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 12:53:00 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 12:53:00 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：337
+ 2019-01-25 12:53:01 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10107数据录入成功！
+ 2019-01-25 12:53:01 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 12:53:01 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 12:54:00 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:38:49 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:38:51 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:38:51 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：457
+ 2019-01-25 13:38:51 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10004数据录入成功！
+ 2019-01-25 13:38:51 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:39:04 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:39:05 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:39:05 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：497
+ 2019-01-25 13:39:05 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10004数据录入成功！
+ 2019-01-25 13:39:05 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:39:23 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:39:24 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:39:25 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：501
+ 2019-01-25 13:39:25 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10004数据录入成功！
+ 2019-01-25 13:39:25 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:39:37 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:39:38 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:39:38 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：0
+ 2019-01-25 13:39:38 [com.hksql.zhai.publicDao.hkRResult.HkRResultService]-[ERROR] 10004当日数值为空
+ 2019-01-25 13:39:38 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:40:02 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:40:04 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:40:04 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：675
+ 2019-01-25 13:40:04 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10004数据录入成功！
+ 2019-01-25 13:40:04 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:40:18 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:40:20 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:40:20 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：751
+ 2019-01-25 13:40:20 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10004数据录入成功！
+ 2019-01-25 13:40:20 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:40:31 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:40:33 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:40:33 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：758
+ 2019-01-25 13:40:33 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10004数据录入成功！
+ 2019-01-25 13:40:33 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:42:10 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:42:11 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:42:11 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：435
+ 2019-01-25 13:42:12 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10004数据录入成功！
+ 2019-01-25 13:42:12 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:42:59 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:42:59 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:42:59 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：195
+ 2019-01-25 13:43:00 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10028数据录入成功！
+ 2019-01-25 13:43:00 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:43:13 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:43:14 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:43:14 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：201
+ 2019-01-25 13:43:15 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10028数据录入成功！
+ 2019-01-25 13:43:15 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:43:28 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:43:29 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:43:29 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：206
+ 2019-01-25 13:43:29 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10028数据录入成功！
+ 2019-01-25 13:43:29 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:43:40 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:43:41 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:43:41 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：255
+ 2019-01-25 13:43:41 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10028数据录入成功！
+ 2019-01-25 13:43:41 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:43:57 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:43:58 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:43:58 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：288
+ 2019-01-25 13:43:58 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10028数据录入成功！
+ 2019-01-25 13:43:58 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:44:12 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:44:13 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:44:13 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：323
+ 2019-01-25 13:44:13 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10028数据录入成功！
+ 2019-01-25 13:44:13 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:44:24 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据开始查询，请耐心等待，请耐心等待
+ 2019-01-25 13:44:24 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成，正在录入，请耐心等待
+ 2019-01-25 13:44:24 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成,总共：405
+ 2019-01-25 13:44:25 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10028数据录入成功！
+ 2019-01-25 13:44:25 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:45:56 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成
+ 2019-01-25 13:45:56 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10012数据录入成功！
+ 2019-01-25 13:45:56 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:46:10 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成
+ 2019-01-25 13:46:10 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10012数据录入成功！
+ 2019-01-25 13:46:10 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:46:18 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成
+ 2019-01-25 13:46:18 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10012数据录入成功！
+ 2019-01-25 13:46:18 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:46:29 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成
+ 2019-01-25 13:46:29 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10012数据录入成功！
+ 2019-01-25 13:46:29 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:46:39 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成
+ 2019-01-25 13:46:39 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10012数据录入成功！
+ 2019-01-25 13:46:40 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:46:55 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成
+ 2019-01-25 13:46:55 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10012数据录入成功！
+ 2019-01-25 13:46:55 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 13:47:01 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 数据查询完成
+ 2019-01-25 13:47:02 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 10012数据录入成功！
+ 2019-01-25 13:47:02 [com.hksql.zhai.rStatistics.rStatisticsInfo.RStatisticsDao]-[INFO] 录入数据查询完成
+ 2019-01-25 14:16:41 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] Hk_r_img数量为：2100
+ 2019-01-25 14:16:41 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 最大id为：2150460
+ 2019-01-25 14:16:42 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] [imginfo]查询hk_company_image表下数据：1
+ 2019-01-25 14:16:42 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 图片信息插入成功：1
+ 2019-01-25 14:17:01 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] Hk_r_img数量为：2101
+ 2019-01-25 14:17:01 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 最大id为：2156138
+ 2019-01-25 14:17:01 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] [imginfo]查询hk_company_image表下数据：0
+ 2019-01-25 14:50:20 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] Hk_r_img数量为：2101
+ 2019-01-25 14:50:20 [com.hksql.zhai.utils.DBUtil]-[ERROR] 查询数据异常:Unknown column 'r_id' in 'field list'
+ 2019-01-25 14:52:33 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] Hk_r_img数量为：2101
+ 2019-01-25 14:52:43 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] [imginfo]查询hk_company_image表下数据：123
+ 2019-01-25 14:52:43 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] 图片信息插入成功：123
+ 2019-01-25 14:55:58 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] Hk_r_img数量为：2154
+ 2019-01-25 14:57:35 [com.hksql.zhai.imgInfo.HkRImageIdinfoDao]-[INFO] Hk_r_img数量为：2154
+ 
